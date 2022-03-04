@@ -1,0 +1,17 @@
+body {
+  background-color: rgb(100,50,100);
+}
+
+h2 {
+  color: red;
+  font-weight: bold;
+  font-family: cursive;
+
+}
+
+.title {
+    color: white;
+    background-color: blue;
+    backface-visibility: hidden;
+
+}
